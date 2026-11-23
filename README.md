@@ -6,6 +6,6 @@ All CAD Files and useful information for Combat Robots will be found in this rep
 
 Fall 2026 (Edit the file and add your name to a team)
 
-Team1: 
+Team1: Alvin Nguyễn, Austin Phuong, Sherhan Yeo
 
 Team2: 
